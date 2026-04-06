@@ -5,6 +5,7 @@ Cloud engineering projects demonstrating AWS, networking, automation, and infras
 
 ## Projects
 
+- Create and configure AWS account for production
 - Custom VPC build- https://github.com/estarobi50/AWS-Custom-VPC-Build
 - Secure S3 + CloudFront Website- https://github.com/estarobi50/secure-s3-cloudfront-site
 - www subdomain +Cloudfront Website - https://github.com/estarobi50/setup-www-CNAME-and-new-ACM-cert
