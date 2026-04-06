@@ -10,7 +10,7 @@ Cloud engineering projects demonstrating AWS, networking, automation, and infras
 - Secure S3 + CloudFront Website- https://github.com/estarobi50/secure-s3-cloudfront-site
 - www subdomain +Cloudfront Website - https://github.com/estarobi50/setup-www-CNAME-and-new-ACM-cert
 - EC2 + SSM (no bastion host setup) https://github.com/estarobi50/EC2-SSM/blob/main/README.md
-- Deploying-vmware-sddc-to-vmware cloud on aws- 
+- Deploying-vmware-sddc-to-vmware cloud on aws- https://github.com/estarobi50/Deploying-vmware-sddc-to-aws
 
 ## Skills Demonstrated
 - AWS Architecture
