@@ -12,7 +12,7 @@ Cloud engineering projects demonstrating AWS, networking, automation, and infras
 - EC2 + SSM (no bastion host setup) https://github.com/estarobi50/EC2-SSM/blob/main/README.md
 - Deploying-vmware-sddc-to-vmware cloud on aws- https://github.com/estarobi50/Deploying-vmware-sddc-to-aws
 
-## Skills Demonstrated
+## Skills Demonstrated                
 - AWS Architecture
 - Networking
 - Security
