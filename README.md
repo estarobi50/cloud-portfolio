@@ -12,6 +12,7 @@ A collection of cloud and AI projects spanning AWS services, infrastructure-as-c
 - www subdomain +Cloudfront Website - https://github.com/estarobi50/setup-www-CNAME-and-new-ACM-cert
 - EC2 + SSM (no bastion host setup) https://github.com/estarobi50/EC2-SSM/blob/main/README.md
 - Deploying-vmware-sddc-to-vmware cloud on aws- https://github.com/estarobi50/Deploying-vmware-sddc-to-aws
+- Manage GitHub files without leaving Claude-https://github.com/estarobi50/Claude-Code
 
 ## Skills Demonstrated                
 - AWS Architecture
