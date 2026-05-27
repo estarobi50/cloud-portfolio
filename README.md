@@ -1,4 +1,4 @@
-# Eric's Cloud Portfolio
+# Eric's Cloud and AI Portfolio
 
 Cloud engineering projects demonstrating AWS, networking, automation, and infrastructure design.
 
