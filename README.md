@@ -20,3 +20,4 @@ A collection of cloud and AI projects spanning AWS services, infrastructure-as-c
 - Security
 - Automation
 - Troubleshooting
+- AI workflows
