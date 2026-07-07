@@ -13,7 +13,7 @@ A collection of cloud and AI projects spanning AWS services, infrastructure-as-c
 - EC2 + SSM (no bastion host setup) https://github.com/estarobi50/EC2-SSM/blob/main/README.md
 - Deploying-vmware-sddc-to-vmware cloud on aws- https://github.com/estarobi50/Deploying-vmware-sddc-to-aws
 - Manage GitHub files without leaving Claude cowork-https://github.com/estarobi50/Claude-Code
-- Build and Deploy App https://github.com/estarobi50/jeanie-ai-denim-fit-finder
+- AI-powered body-shape and denim fit analyzer https://github.com/estarobi50/jeanie-ai-denim-fit-finder
 
 ## Skills Demonstrated                
 - AWS Architecture
