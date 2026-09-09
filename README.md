@@ -12,6 +12,7 @@ A collection of cloud and AI projects spanning AWS services, infrastructure-as-c
 - www subdomain +Cloudfront Website - https://github.com/estarobi50/setup-www-CNAME-and-new-ACM-cert
 - EC2 + SSM (no bastion host setup) https://github.com/estarobi50/EC2-SSM/blob/main/README.md
 - Deploying-vmware-sddc-to-vmware cloud on aws- https://github.com/estarobi50/Deploying-vmware-sddc-to-aws
+- Deploy and attach fsx-ontap-nfs-datastore-vmware-cloud sddc - https://github.com/estarobi50/fsx-ontap-nfs-datastore-vmware-cloud
 - Manage GitHub files without leaving Claude cowork-https://github.com/estarobi50/Claude-Code
 - AI-powered body-shape and denim fit analyzer https://github.com/estarobi50/jeanie-ai-denim-fit-finder
 
