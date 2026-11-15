@@ -1,4 +1,4 @@
-# Eric's Cloud and AI Portfolio
+# Cloud and AI Portfolio
 
 A collection of cloud and AI projects spanning AWS services, infrastructure-as-code, networking, and intelligent automation — built to demonstrate real-world engineering depth.
 
